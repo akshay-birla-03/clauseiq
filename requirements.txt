@@ -1,0 +1,5 @@
+# Core runtime (offline-capable). Optional extras enable real models:
+#   pip install -e ".[ml,llm,ui,dev]"
+pydantic>=2.5
+fastapi>=0.110
+uvicorn>=0.27

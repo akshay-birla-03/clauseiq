@@ -1,0 +1,45 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (the "Agreement") is entered into as of 2025-04-15
+by and between Cobalt Cloud Services ("Provider") and Meridian Bank N.A. ("Client").
+
+1. DEFINITIONS
+1.1 "Services" means the cloud hosting services described in each Statement of Work.
+1.2 "Confidential Information" means non-public information disclosed by either party.
+
+2. TERM
+2.1 This Agreement commences on the Effective Date and continues for an initial
+term of 36 months, renewing automatically for successive twelve (12) month
+periods unless either party gives written notice of non-renewal.
+
+3. FEES AND PAYMENT
+3.1 Client shall pay Provider the fees set out in the applicable Statement of Work.
+3.2 Invoices are payable within 30 days of the invoice date. Late amounts
+accrue interest at 1% per month.
+
+4. TERMINATION
+4.1 Either party may terminate this Agreement for convenience upon 30 days'
+prior written notice.
+4.2 Either party may terminate immediately if the other party commits a material
+breach that remains uncured for 30 days after written notice of the breach.
+
+5. CONFIDENTIALITY
+5.1 Each party shall protect the other's Confidential Information using at least
+reasonable care and shall not disclose it for a period of 5 years.
+
+6. LIMITATION OF LIABILITY
+6.1 Except for breaches of confidentiality or indemnification obligations, each
+party's aggregate liability shall not exceed the fees paid in the 6 months
+preceding the claim.
+
+7. INDEMNIFICATION
+7.1 Provider shall indemnify Client against third-party claims that the Services
+infringe any intellectual property right.
+
+8. GOVERNING LAW
+8.1 This Agreement is governed by the laws of the State of Delaware, USA, without regard to conflict
+of law principles. Disputes shall be resolved by binding arbitration in Mumbai.
+
+9. DATA PROTECTION
+9.1 Provider shall process personal data only per Client's instructions and shall
+notify Client of any personal data breach within 72 hours.

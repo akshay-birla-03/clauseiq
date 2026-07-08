@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What is the termination notice period in Acme Analytics LLC's agreement?",
+    "expected_doc_id": "msa_01",
+    "expected_keywords": [
+      "60"
+    ]
+  },
+  {
+    "question": "How many days to cure a material breach under msa_01?",
+    "expected_doc_id": "msa_01",
+    "expected_keywords": [
+      "15"
+    ]
+  },
+  {
+    "question": "What is the termination notice period in BluePeak Software Pvt. Ltd.'s agreement?",
+    "expected_doc_id": "msa_02",
+    "expected_keywords": [
+      "30"
+    ]
+  },
+  {
+    "question": "How many days to cure a material breach under msa_02?",
+    "expected_doc_id": "msa_02",
+    "expected_keywords": [
+      "15"
+    ]
+  },
+  {
+    "question": "What is the termination notice period in Helios Energy Partners's agreement?",
+    "expected_doc_id": "msa_03",
+    "expected_keywords": [
+      "90"
+    ]
+  },
+  {
+    "question": "How many days to cure a material breach under msa_03?",
+    "expected_doc_id": "msa_03",
+    "expected_keywords": [
+      "15"
+    ]
+  },
+  {
+    "question": "What is the termination notice period in Cobalt Cloud Services's agreement?",
+    "expected_doc_id": "msa_04",
+    "expected_keywords": [
+      "30"
+    ]
+  },
+  {
+    "question": "How many days to cure a material breach under msa_04?",
+    "expected_doc_id": "msa_04",
+    "expected_keywords": [
+      "30"
+    ]
+  }
+]

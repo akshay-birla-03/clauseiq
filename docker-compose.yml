@@ -1,0 +1,12 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      # Leave unset for fully-offline mode. Provide a key to use OpenAI:
+      # OPENAI_API_KEY: ${OPENAI_API_KEY}
+      CLAUSEIQ_EMBEDDING_BACKEND: auto
+      CLAUSEIQ_LLM_BACKEND: auto
+    volumes:
+      - ./data:/app/data:ro
