@@ -1,5 +1,8 @@
 # ClauseIQ — Agentic RAG for Contract Intelligence
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshay-birla-03/clauseiq/blob/main/notebooks/Run_in_Colab.ipynb)
+
+
 [![CI](https://github.com/akshay-birla-03/clauseiq/actions/workflows/ci.yml/badge.svg)](https://github.com/akshay-birla-03/clauseiq/actions)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
